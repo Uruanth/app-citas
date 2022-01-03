@@ -1,0 +1,145 @@
+[{
+        "idPaciente": "101",
+        "nombrePaciente": "nombre 1",
+        "apellidosPaciente": "apellido 1",
+        "nombreMedico": "medico 1",
+        "apellidosMedico": "apellido medico 1",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "3",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "201",
+        "nombrePaciente": "nombre 2",
+        "apellidosPaciente": "apellido 2",
+        "nombreMedico": "medico 2",
+        "apellidosMedico": "apellido medico 2",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "2",
+        "estadoReservaCita": "Cancelada",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "131",
+        "nombrePaciente": "nombre 3",
+        "apellidosPaciente": "apellido 3",
+        "nombreMedico": "medico 3",
+        "apellidosMedico": "apellido medico 3",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "3",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "141",
+        "nombrePaciente": "nombre 4",
+        "apellidosPaciente": "apellido 4",
+        "nombreMedico": "medico 4",
+        "apellidosMedico": "apellido medico 4",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "4",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "151",
+        "nombrePaciente": "nombre 5",
+        "apellidosPaciente": "apellido 5",
+        "nombreMedico": "medico 5",
+        "apellidosMedico": "apellido medico 5",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "5",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "161",
+        "nombrePaciente": "nombre 6",
+        "apellidosPaciente": "apellido 6",
+        "nombreMedico": "medico 6",
+        "apellidosMedico": "apellido medico 6",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "6",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "171",
+        "nombrePaciente": "nombre 7",
+        "apellidosPaciente": "apellido 7",
+        "nombreMedico": "medico 7",
+        "apellidosMedico": "apellido medico 7",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "7",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "181",
+        "nombrePaciente": "nombre 8",
+        "apellidosPaciente": "apellido 8",
+        "nombreMedico": "medico 8",
+        "apellidosMedico": "apellido medico 8",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "8",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    },
+    {
+        "idPaciente": "191",
+        "nombrePaciente": "nombre 9",
+        "apellidosPaciente": "apellido 9",
+        "nombreMedico": "medico 9",
+        "apellidosMedico": "apellido medico 9",
+        "fechaReservaCita": {
+            "$date": "2021-12-30T00:00:00.000Z"
+        },
+        "horaReservaCita": "9",
+        "estadoReservaCita": "Activa",
+        "tratamientosList": [{
+            "padecimiento": "Ricura",
+            "Tratamiento": "Flow"
+        }]
+    }
+]
