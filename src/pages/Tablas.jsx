@@ -33,7 +33,7 @@ export default function Tablas() {
       <div className="row ">
         <button onClick={() => dispatch(getAllAction())} className="btn btn-primary col">Get all</button>
         <div className="input-group mb-3 mt-4">
-          <input type="text" className="form-control" placeholder="Nombre paciente"
+          <input type="text" className="form-control" placeholder="id del paciente"
             aria-label="Recipient's username" aria-describedby="basic-addon2"
             onChange={(e) => handleChange(e)}
             value={Nombre}
